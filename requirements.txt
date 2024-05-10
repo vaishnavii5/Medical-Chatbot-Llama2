@@ -1,5 +1,7 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
+pypdf
 langchain
-PyPDF2 == 3.0.1
-chromadb
+torch
+accelerate
+ctransformers
+sentence_transformers
+faiss_cpu
